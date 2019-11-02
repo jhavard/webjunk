@@ -1,14 +1,10 @@
-Dead Project
-============
+W E B J U N K
+=============
 
-This project is dead. It was originally some web publishing junk
-but never had a single commit other than the readme. It is now 
-being used to test some commit webhooks.
+This is a simple webhook for now, servicing just this repo.
 
----
+It sends a message in NIMS Normal Format HX3837 to print
+on the AN/UGC-129(V)1.
 
-And yet another one.
+Proof of concept. Needs more work.
 
----
-
-We commit again.
