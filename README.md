@@ -9,4 +9,6 @@ being used to test some commit webhooks.
 
 And yet another one.
 
+---
 
+We commit again.
