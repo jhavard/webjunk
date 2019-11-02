@@ -65,7 +65,7 @@ fwrite($fp, $msg);
 
 fclose($fp);
 
-$tname = uniqid("pusher.", true) . ".txt");
+$tname = uniqid("pusher.", true) . ".txt";
 
 system("uucp /www/jhdotcom/var/post.out NTXG!HX3837!/nims/HX3837/$tname");
 
